@@ -1599,6 +1599,7 @@ hr {
     list-style:none;
     text-align: center;
     list-style-position: outside;
+    margin: 10px 0;
 }
 
 #about .left {
