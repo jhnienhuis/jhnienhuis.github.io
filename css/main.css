@@ -1596,6 +1596,9 @@ hr {
 #about ul li {
 	color: #707273;
 	font: 16px/26px "raleway-semibold", sans-serif;
+    list-style:none;
+    text-align: center;
+    list-style-position: outside;
 }
 
 #about .left {
