@@ -1674,6 +1674,42 @@ hr {
 }
 
 
+/*  n. About Section
+/* =================================================================== */
+
+#about2 {
+	background: white;
+	padding-top: 120px;
+	padding-bottom: 0;
+}
+#about2 .about-content {
+	max-width: 934px;
+}
+#about2 h3 {
+	font: 16px/36px "raleway-heavy", sans-serif;
+	text-transform: none;
+	padding: 0;
+	margin-bottom: 0;
+}
+#about2 p {
+	color: #707273;
+	font: 16px/26px "raleway-semibold", sans-serif;
+}
+
+#about2 ul li {
+	color: #707273;
+	font: 16px/26px "raleway-semibold", sans-serif;
+}
+
+#about2 .left {
+	padding-right: 30px;
+}
+#about2 .right {
+	padding-left: 30px;
+}
+
+
+
 /* 
 /*  o. Journal Section
 /* =================================================================== */
